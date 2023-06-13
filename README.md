@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="http://10.153.209.227:5000/">http://10.153.209.227:5000/</a>
-</p>
+![header]
 
 <h3 align="center">🏆 Award 🏆</h3>
 
@@ -13,9 +11,9 @@
   
 <br>
 
-
 <h3 align="center">📩 Contact</h3>
 <p align="center">
+  <a href="http://10.153.209.227:5000/"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=Internet%20Explorer&logoColor=white&link=http://10.153.209.227:5000/"/></a>&nbsp
   <a href="https://velog.io/@woo0_hooo"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
   <a href="https://www.instagram.com/woo0_hooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
   <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>

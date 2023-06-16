@@ -2,9 +2,9 @@
 
 <p align="center">🇰🇷 🇹🇷 🇦🇪</p>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">🛠 보유 기술 🛠</h3>
 
-<p align="center"> Techs that I've used at least once </p>
+<p align="center"> "안되면 되는거 해라" </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -22,7 +22,7 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo&tag=기술면접대비)](https://velog.io/@woo0_hooo)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dddd&tag=응응응)](https://velog.io/@woo0_hooo)
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo)](https://velog.io/@woo0_hooo)
   
 </div>

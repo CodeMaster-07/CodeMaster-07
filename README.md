@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Mohamad%20Burhan&fontSize=70&animation=twinkling)
 
-<p align="center">🇰🇷 🇹🇷 🇦🇪</p>
+<p align="center">🇰🇷 🇹🇷</p>
 
 <h3 align="center">🛠 보유 기술 🛠</h3>
 

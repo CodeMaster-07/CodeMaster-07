@@ -4,7 +4,7 @@
 
 <h3 align="center">🛠 보유 기술 🛠</h3>
 
-<p align="center"> 자기소개 페이지 아직 덜 만들었어요 시간 없음요 </p>
+<p align="center"> 자기소개 페이지 아직 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
